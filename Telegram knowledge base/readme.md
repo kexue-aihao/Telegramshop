@@ -17,4 +17,8 @@
 4.电报号如何解除私信限制
 
 > https://github.com/kexue-aihao/Telegramshop/tree/master/Telegram%20knowledge%20base/%E7%94%B5%E6%8A%A5%E5%8F%B7%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4%E7%A7%81%E4%BF%A1%E9%99%90%E5%88%B6
+
+5.第三方电报APP
+
+>
 ---------------------
