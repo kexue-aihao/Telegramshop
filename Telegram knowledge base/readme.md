@@ -20,5 +20,5 @@
 
 5.第三方电报APP
 
->
+> https://github.com/kexue-aihao/Telegramshop/tree/master/Telegram%20knowledge%20base/%E7%AC%AC%E4%B8%89%E6%96%B9%E7%94%B5%E6%8A%A5APP
 ---------------------
