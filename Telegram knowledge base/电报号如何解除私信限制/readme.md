@@ -25,9 +25,9 @@
 4.回复完这个之后，会提示如下文本:
 
     First, please confirm that you will never send this to strangers:
-- Unsolicited advertising of any kind
-- Promotional messages
-- Shocking materials
+    - Unsolicited advertising of any kind
+    - Promotional messages
+    - Shocking materials
 
 Were you going to do anything like that?
 
