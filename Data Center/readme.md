@@ -19,4 +19,4 @@
 
     新加坡
 
-![image](https://github.com/kexue-aihao/Telegramshop/assets/142807165/a397ae85-2209-4c55-a3ba-82b6e38f80ee)
+![image](/img/Telegramlogo.png)
