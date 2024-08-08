@@ -28,7 +28,7 @@ https://github.com/kexue-aihao/Telegramshop/tree/master/Telegram%20knowledge%20b
 
 ## 购买电报号服务条款（购买即默认遵守）：
 
-    1.卖家支持支付宝口令、微信二维码以及USDT支付方式，如果无法接受的，请勿购买
+    1.卖家支持支付宝口令、支付宝二维码支付、微信二维码、微信赞赏码以及USDT支付方式，如果无法接受的，请勿购买
 
     2.电报号质保首登，收不到验证码，全额退款
 
@@ -51,6 +51,18 @@ https://github.com/kexue-aihao/Telegramshop/tree/master/Telegram%20knowledge%20b
 ## 交易方式：
 
 ### Alipay（支付宝）口令支付
+
+### Alipay（支付宝）二维码支付
+
+![image](/img/支付宝二维码支付.png)
+
+### Wechat（微信）二维码支付
+
+![image](/img/微信二维码支付.png)
+
+### WeChat（微信）赞赏码
+
+![image](/img/微信赞赏码支付.png)
 
 ### USDT-TRC20 支付（支付请往如下地址发起转账）
 
