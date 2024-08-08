@@ -7,7 +7,7 @@
 
 ### Telegram Bot
 
-    https://t.me/TG99601_bot
+    https://t.me/ranzhixi002_bot
 
 ### Email：
 
@@ -28,7 +28,7 @@ https://github.com/kexue-aihao/Telegramshop/tree/master/Telegram%20knowledge%20b
 
 ## 购买电报号服务条款（购买即默认遵守）：
 
-    1.卖家只支持支付宝口令以及USDT支付方式，如果无法接受的，请勿购买
+    1.卖家支持支付宝口令、微信二维码以及USDT支付方式，如果无法接受的，请勿购买
 
     2.电报号质保首登，收不到验证码，全额退款
 
